@@ -11,7 +11,7 @@ I'm a Computing Engineer.
 <div align="left">
  
 ``` js
-const stebs = {
+const jeff = {
     personal: {
         fullName: 'Jefferson Fonseca',
         birthDate: '1990-09-10',
