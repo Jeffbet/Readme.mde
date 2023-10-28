@@ -41,7 +41,7 @@ const stebs = {
 </details>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:arielfonsek5@gmail.com)
-[![Twitter: jeffersonfonseca](https://img.shields.io/twitter/follow/stephdotjs?style=social)](https://twitter.com/jeffersonfonseca)
-[![Linkedin: jeffersonfonseca](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/jeffersonfonsek/)
+[![Twitter: jeffersonfonseca](https://img.shields.io/twitter/follow/jefffonsecajs?style=social)](https://twitter.com/jeffersonfonseca)
+[![Linkedin: jeffersonfonseca](https://img.shields.io/badge/-jeffersonfonseca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonfonsecah/)](https://www.linkedin.com/in/jeffersonfonsek/)
 [![GitHub: jeffersonfonseca](https://img.shields.io/github/followers/Jeffbet?label=follow&style=social)](https://github.com/Jeffbet)
 </div>
