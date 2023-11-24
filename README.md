@@ -30,7 +30,7 @@ const jeff = {
                 CSS: ['flexbox', 'styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Javascript: ['Node.js', 'Express', 'Angular']
+                Javascript: ['Node.js', 'Express', 'Next.js']
             },
             architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
         },
