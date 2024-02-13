@@ -25,7 +25,7 @@ const jeff = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vue.js', 'React', 'TypeScript', 'Jest'],
+                Javascript: ['Vue.js', 'React', 'TypeScript', 'Angular'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['flexbox', 'styled-components', 'Bootstrap'],
             },
